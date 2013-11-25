@@ -56,9 +56,6 @@ footer {
 }
 
 nav {
-	position: absolute;
-	/*left: 0;*/
-	width: 80%;
 	border-bottom: 1px solid #D9E4E3;
 	background-image:url('../image/bg_img.jpg');
 	background-repeat:repeat-x;
